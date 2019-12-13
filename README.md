@@ -6,3 +6,5 @@ Now editing on update-readme branch
 \Changes on local side
 
 More local changes
+
+zLOcal Friday changes 
